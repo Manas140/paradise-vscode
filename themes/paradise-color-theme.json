@@ -2055,7 +2055,7 @@
     "editor.wordHighlightStrongBorder": "#424242",
     "editorBracketMatch.background": "#2e2e2e",
     "editorBracketMatch.border": "#2e2e2e",
-    "editorCursor.background": "#e8e3e3c9",
+    "editorCursor.background": "#181818",
     "editorCursor.foreground": "#8DA3B9",
     "editorError.foreground": "#B66467",
     "editorGroup.border": "#151515",
